@@ -1,0 +1,16 @@
+.flex-container{
+    width: 100%;
+    height: auto;
+    background-color: indianred;
+    display: flex;
+    flex-flow: wrap; 
+    justify-content: space-around;
+    
+}
+
+.img{
+    width: 15vw;
+    height: 25vh;
+    display: flex;
+    margin: 20px;
+}
